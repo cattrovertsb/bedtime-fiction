@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Read อะไรก่อนนอน?</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Itim&family=Mitr:wght@300;400;500;600&display=swap"
+      rel="stylesheet">
+</head>
+
+<body>
+
+  <main class="container">
+
+    <p class="label">READ อะไรก่อนนอน?</p>
+
+    <h1>Knock Knock!</h1>
+    <h2>เบา ๆ ระวังแมวตื่น</h2>
+
+    <p>เรื่องอะไรรออยู่หลังประตู?</p>
+
+    <div class="door-scene">
+
+      <!-- es -->
+      <img
+        src="A1.webp"
+        class="side-character character-left"
+        alt=""
+      >
+    
+      <!-- door -->
+      <section class="door-area">
+    
+        <!-- result -->
+        <div class="result" id="result">
+    
+          <p class="small-title">
+            คืนนี้ได้อ่านเรื่อง...
+          </p>
+    
+          <h3 id="storyTitle"></h3>
+    
+          <p id="storySummary"></p>
+    
+          <button id="readButton">
+            ไปอ่านเรื่องนี้ ↗
+          </button>
+    
+        </div>
+    
+        <!-- บานประตู -->
+        <button
+          class="door"
+          id="doorButton"
+          aria-label="เปิดประตูสุ่มฟิค"
+        >
+    
+          <div class="room-sign">
+            <span>CATTROVERT NEXT DOOR</span>
+            <strong>ROOM 3901</strong>
+          </div>
+    
+          <span class="open-text">
+            Open
+          </span>
+    
+          <span class="knob"></span>
+    
+          <span class="mail-slot"></span>
+    
+        </button>
+    
+        <!-- กริ่งข้างประตู -->
+        <span class="doorbell" aria-hidden="true">
+          <span></span>
+        </span>
+    
+      </section>
+    
+      <!-- wb -->
+      <img
+        src="B1.webp"
+        class="side-character character-right"
+        alt=""
+      >
+    
+  </div>
+  <button
+    class="random-button is-hidden"
+    id="randomButton"
+  >
+    สุ่มอีกครั้ง ♡
+  </button>
+
+  </main>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

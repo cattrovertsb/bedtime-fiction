@@ -164,12 +164,18 @@ const stories = [
     {"title":"surrender","summary":"เขาลือกันให้แย่ดว่าอ้อใหญ่ตระกูลจางน่ะ ใจกว้างยิ่งกว่ามหาสมุทร","link":"https://www.readawrite.com/a/f2e5d2f29d7f027850d25bc5ddaf2418"},
     {"title":"Thanks But No Thank","summary":"ได้แก้แบบบ้านให้พวกตารา ? เรื่องมากชัวร์","link":"https://www.readawrite.com/a/56c398c77a4ddcd274b1da8cfce953e3"},
     {"title":"love (not) guarantee","summary":"ในหนึ่งชั่วโมงก่อนเช้าฮ่องกง ปิกเครื่องบินข้างขวายองคุณจะเกิดไฟลุก และสุดท้ายเครื่องบินทั้งทั้งล่าจะตกลงกลางทะเลโดยไม่มีใครรอดชีวิต ... กรุณาซ่าระ 500 ที่บัญชีพร้อมเพย์เพื่อปลดล็อกคำทำทำทำนายต่อไป","link":"https://www.readawrite.com/a/6afb65c60da3af89f86c2aea4a0d95e5"},
-    { title: "Hey mr.gawin! I'm not yha", summary: "ตื่นมาอีกทีก็เข้ามาอยู่ในซีรีส์ที่เพิ่งดูเมื่อคืน แถมพระเอกใจร้ายอีกต่างหาก", link: "https://www.readawrite.com/a/de5362f4571fab29e858dc9b94bea13b" },
-    { title: "wife and sniper", summary: "การทะลุมิติ แค่นี้ก็น่าเหลือเชื่อแล้ว งั้นถ้าเป็นการทะลุมิติเข้ามาในนิยาย Y ของเพื่อน เล่าไปใครจะเชื่อบ้างว่ามันเกิดขึ้นแล้วกับผม เกย์ผู้มีความลับข้อแรกคือการเป็นมือสังหารระดับพระกาฬ", link: "https://www.readawrite.com/a/c4bc0c2badf37fde925e93d5fe4dcf10" },
-    { title: "summer's", summary: "สรุปว่าคิวเราได้วันไหน", link: "https://www.readawrite.com/a/7088717b3013ec380b2877f0dc6ab14c" },
-    { title: "ไอ้เต้อไอที", summary: "อาการก่อนซ่อม : อกหัก", link: "https://www.readawrite.com/a/ed0a9afbac7338fb854d1e20ade59582" },
-    { title: "ดาว", summary: "แด่ความทรงจำและวันพัง ๆ ของเรา", link: "https://www.readawrite.com/a/0c95ca411e67b2dcc4159356dc4df695" },
-  ];
+    {"title":"Hey mr.gawin! I'm not yha","summary":"ตื่นมาอีกทีก็เข้ามาอยู่ในซีรีส์ที่เพิ่งดูเมื่อคืน แถมพระเอกใจร้ายอีกต่างหาก","link":"https://www.readawrite.com/a/de5362f4571fab29e858dc9b94bea13b"},
+    {"title":"wife and sniper","summary":"การทะลุมิติ แค่นี้ก็น่าเหลือเชื่อแล้ว งั้นถ้าเป็นการทะลุมิติเข้ามาในนิยาย Y ของเพื่อน เล่าไปใครจะเชื่อบ้างว่ามันเกิดขึ้นแล้วกับผม เกย์ผู้มีความลับข้อแรกคือการเป็นมือสังหารระดับพระกาฬ","link":"https://www.readawrite.com/a/c4bc0c2badf37fde925e93d5fe4dcf10"},
+    {"title":"summer's","summary":"สรุปว่าคิวเราได้วันไหน","link":"https://www.readawrite.com/a/7088717b3013ec380b2877f0dc6ab14c"},
+    {"title":"ไอ้เต้อไอที","summary":"อาการก่อนซ่อม : อกหัก","link":"https://www.readawrite.com/a/ed0a9afbac7338fb854d1e20ade59582"},
+    {"title":"ดาว","summary":"แด่ความทรงจำและวันพัง ๆ ของเรา","link":"https://www.readawrite.com/a/0c95ca411e67b2dcc4159356dc4df695"},
+    {"title":"tachibana","summary":"ใครก็รู้ว่าท่านโทมะแต่งงานกับตระกูลนั้นก็เพียงเพราะสงสาร รอหล่อนเดินได้เมื่อไหร่เกรงว่าคงถึงคราวหย่ากัน","link":"https://www.readawrite.com/a/70efe547db8b3c176a845e6635cdaf13"},
+    {"title":"1st pimjai","summary":"ใคร ๆ ต่างก็บอกว่า \"พ่อเลี้ยงศิลา\" เจ้าของไร่องุ่นวรดิษฐ์ ไม่ชอบคุณหนูพิมพ์ใจ เจ้าของฟาร์มดอกไม้ไร่ข้าง ๆ (แต่ลูกชายชอบ)","link":"https://www.readawrite.com/a/5678649c9eeaa159980a79d50e92d6ce"},
+    {"title":"surrender","summary":"เขาลือกันให้แซ่ดว่าซ้อใหญ่ตระกูลจางน่ะใจกว้างยิ่งกว่ามหาสมุทร","link":"https://www.readawrite.com/a/f2e5d2f29d7f027850d25bc5ddaf2418"},
+    {"title":"Countdown attack 3 2 1","summary":"พ่อหม้ายเมียตาย บ้านอยู่ท้ายไร่กับแมวหนึ่งตัว อย่าไปยุ่งกับแกมากเลย","link":"https://www.readawrite.com/a/323010440fc6444ad1be0e38d805bc3a"},
+    {"title":"darin j.","summary":"beauty is a key but confidence is the power","link":"https://www.readawrite.com/a/012a5387335677268143c55d47bd4676"},
+    {"title":"nowayback","summary":"รักคุณเข้าอีกแล้ว","link":"https://www.readawrite.com/a/55846150b17db01d2ff0fac9a10fe7d3"}
+]
 
   const doorButton = document.getElementById("doorButton");
   const result = document.getElementById("result");
